@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "pacman": "c",
+        "ctype.h": "c"
+    }
+}
